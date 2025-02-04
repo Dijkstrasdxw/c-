@@ -1,4 +1,3 @@
-
 #include<iostream>
 #include<stdio.h>
 using namespace std;
@@ -121,4 +120,3 @@ int main(){
     cout<<"删除的结点的data是:"<<e<<endl;
 
 }
-
